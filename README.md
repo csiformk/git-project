@@ -10,3 +10,10 @@ https://github.com/csiformk/kit-demarrage-git
 - Renommer la master en main
 - Créer un depôt sur github que vous devez relier à projet-git
 - Faire un push
+
+# Travail en groupe
+
+- Forker le depot d'un collegue
+- Le Cloner
+- Ajouter du texte dans index.html
+- Pusher votre travail
