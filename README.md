@@ -1,5 +1,9 @@
 https://github.com/csiformk/kit-demarrage-git
 
+# Enonce projet git
+
+https://github.com/csiformk/git-project
+
 - Initialiser le dossier projet-git avec git
 - Ajouter les 3 fichiers README.md, LICENSE.md, .gitignore
 - Créer une page index.html avec du lorem ipsum
